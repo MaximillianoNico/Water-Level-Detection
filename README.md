@@ -6,5 +6,5 @@ Sync with Blynk Cloud
 
 # Contributor
 
-* [Maximilliano Nico Lolong](https://github.com/MaximillianoNico) ✨ (and Contribution Types)  - Software Engineer
-* [Muhammad Naufal Fadhillah](https://github.com/nauhalf) ✨ (and Contribution Types)  - Software Engineer
+* [Maximilliano Nico Lolong](https://github.com/MaximillianoNico) ✨ (and Contribution Types, Arduino with blink API )  - Software Engineer
+* [Muhammad Naufal Fadhillah](https://github.com/nauhalf) ✨ (and Contribution Types, Arduino with lcd display)  - Android Engineer
